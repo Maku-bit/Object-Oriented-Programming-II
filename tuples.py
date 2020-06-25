@@ -16,3 +16,4 @@ print (tup[2])
 
 s= {22,11,33,55,66,44}
 #sets dont follow the sequence in which elements are added
+#sets do not support duplicate values because the have a memory space of btwn 1 and 0
